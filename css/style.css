@@ -281,7 +281,7 @@ body {
 .footer {
   background-color: #101d2c;
   grid-column: full-start / full-end;
-  padding: 8rem; }
+  padding: 5rem; }
 
 .nav {
   list-style: none;
@@ -304,7 +304,6 @@ body {
     transform: translateY(-3px); }
 
 .copyright {
-  padding-top: 2rem;
   font-size: 1.4rem;
   color: #aaa;
   margin-top: 6rem;

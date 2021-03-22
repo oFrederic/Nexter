@@ -17,7 +17,8 @@
 
 ## General info
 
--work in progress
+Project created during an advanced CSS course with the goal of teaching advanced styling method such as Sass, FlexBox, CSSGrid and best practice.
+I hope you will have as much fun looking at it as I had fun building it.
 
 ## Screenshots
 
@@ -31,8 +32,10 @@
 
 ## Technologies
 
--work in progress
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3)
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat-square&logo=Sass)
+![FlexBox](https://img.shields.io/badge/-FlexBox-E6526F?style=flat-square&logo=FlexBox)
+![CSSgrid](https://img.shields.io/badge/-CSSgrid-red?style=flat-square&logo=CSSgrid)
 
 ## Contact
-
--work in progress
+<a href="https://linkedin.com/in/fredericwoj"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=LinkedIn"></a>

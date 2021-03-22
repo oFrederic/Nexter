@@ -17,7 +17,7 @@
 
 ## General info
 
-Project created during an advanced CSS course with the goal of teaching advanced styling method such as Sass, FlexBox, CSSGrid and best practice.
+Project created during an advanced CSS course with the goal of teaching advanced styling method such as Sass, FlexBox, CSSGrid and best practice, Page being fully responsive as well.
 I hope you will have as much fun looking at it as I had fun building it.
 
 ## Screenshots
